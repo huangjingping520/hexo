@@ -140,7 +140,7 @@ article:
   body:
     # 文章顶部信息
     # 从 meta_library 中取
-    top_meta: [author, category, date, counter, valinecount] #启用评论数量需在此添加
+    top_meta: [author, category, date, wordcount, counter, valinecount] #启用评论数量需在此添加
     # ----------------
     # 文章页脚组件
     footer_widget:
@@ -635,7 +635,7 @@ plugins:
   ######## Plugins for SEO:
   # npm i hexo-wordcount
   wordcount:
-    enable: #true
+    enable: true
 
   ######## Plugins for ...
   # Button Ripple Effect
