@@ -400,16 +400,22 @@ sidebar:
       url: /about/
       title:
       subtitle:
-      jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
+      jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
-        - icon: fas fa-rss
-          url: /atom.xml
+        # - icon: fas fa-rss
+        #   url: /atom.xml
         - icon: fas fa-envelope
-          url: mailto:me@xxx.com
+          url: mailto:merlinalexhjp@gmail.com
         - icon: fab fa-github
-          url: https://github.com/volantis-x/
-        - icon: fas fa-headphones-alt
-          url: /
+          url: https://github.com/huangjingping520/
+        - icon: fab fa-bimobject
+          url: https://space.bilibili.com/97704929
+        - icon: fab fa-zhihu
+          url: https://www.zhihu.com/people/zang-hai-77-32
+        - icon: fab fa-weixin
+          url: https://gitee.com/merlinalex/pic-go/raw/master/wechat.png
+        - icon: fab fa-qq
+          url: https://gitee.com/merlinalex/pic-go/raw/master/qq.jpeg
     # ---------------------------------------
     # toc widget (valid only in articles)
     toc:
@@ -418,7 +424,7 @@ sidebar:
       header:
         icon: fas fa-list
         title: 本文目录
-      list_number: false
+      list_number: true
       min_depth: 2
       max_depth: 5
     # ---------------------------------------
@@ -452,13 +458,13 @@ sidebar:
       end_color: '#555'
     # ---------------------------------------
     # qrcode widget
-    qrcode:
-      class: qrcode
-      display: [desktop, mobile] # [desktop, mobile]
-      height: 64px  # Automatic height if not set
-      images:
-        - https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
-        - https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
+    # qrcode:
+    #   class: qrcode
+    #   display: [desktop, mobile] # [desktop, mobile]
+    #   height: 64px  # Automatic height if not set
+    #   images:
+    #     - https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
+    #     - https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
     # ---------------------------------------
     # webinfo widget
     webinfo:
@@ -474,7 +480,7 @@ sidebar:
           unit: '篇'
         runtime:
           enable: true
-          data: '2020/01/01'    # 填写建站日期
+          data: '2019/11/27'    # 填写建站日期
           text: '已运行时间：'
           unit: '天'
         wordcount:
