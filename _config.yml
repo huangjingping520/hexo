@@ -9,6 +9,10 @@ description:
 keywords:
 author: MerlinAlex(HJP)
 language:
+  - zh-CN
+  - en
+  - zh-HK
+  - zh-TW
 timezone:
 
 # URL
@@ -73,7 +77,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: volantis
+
+# 网站图标，更多尺寸等图标请使用import方式批量导入
+favicon: https://gitee.com/merlinalex/pic-go/raw/master/bitbug_favicon.ico
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
