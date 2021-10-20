@@ -395,7 +395,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+      avatar: https://gitee.com/merlinalex/pic-go/raw/master/B99391D8-CF54-47C9-8DBB-D257A642E47E_1_105_c.jpeg
       shape: rectangle # circle, rectangle
       url: /about/
       title:
