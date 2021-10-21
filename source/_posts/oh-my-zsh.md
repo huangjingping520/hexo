@@ -31,7 +31,7 @@ sudo apt install zsh
 chsh -s /bin/zsh
 ```
 
-### macOS
+#### macOS
 
 macOS 高版本已经将默认shell从bash更换到了zsh
 
