@@ -1,0 +1,15 @@
+- group: 大佬 # 分组标题
+  description:  牛逼哄哄的能量瓶小伙(bushi) # 分组描述
+  items:
+    - title: DiyGod # 名称
+      avatar: https://gitee.com/merlinalex/pic-go/raw/master/DIYgod-avatar2.webp # 头像
+      url: https://diygod.me/ # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: # 描述
+    - title: # 名称
+      avatar: # 头像
+      url: # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: # 描述

@@ -1,6 +1,7 @@
 ---
-title:
-  '[object Object]': null
+layout: tag
+index: true
+title: 所有标签
 date:
-  '[object Object]': null
+  {{date}}
 ---
