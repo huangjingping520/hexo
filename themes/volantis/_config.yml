@@ -906,7 +906,7 @@ rightmenu:
 search:
   enable: true
   service: hexo  # hexo
-  js:
+  js: 
 ############################### Search ############################### > end
 
 ############################### Color Scheme ############################### > start
