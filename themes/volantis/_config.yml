@@ -56,7 +56,7 @@ navbar:
     - name: 标签
       icon: fas fa-tags
       url: tags/
-    - name: 归档
+    - name: 时间线
       icon: fas fa-archive
       url: archives/
     - name: 友链
