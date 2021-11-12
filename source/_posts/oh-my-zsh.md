@@ -79,6 +79,15 @@ p10k configure
 
 安装完p10k后会自动选择配置，可以按照上方命令再次设置，建议安装完自体后进行设置，否则或出现乱码
 
+### 设置高亮
+```shell
+brew install zsh-syntax-highlighting
+```
+然后在.zshrc 中追加以下内容
+```shell
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+```
+
 ### macos中设置vscode Terminal
 
 > 参考下方图片
