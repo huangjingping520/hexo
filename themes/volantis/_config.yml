@@ -97,16 +97,16 @@ cover:
       url: /archives/
     - name: 关于
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
       url: /about/
     # - name: 示例
     #   icon: #
     #   img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
     #   url: /examples/
-    # - name: 社区
-    #   icon: #
-    #   img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
-    #   url: /contributors/
+    - name: 知识库
+      icon: #
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
+      url: https://note.merlinalex.top/#/
     - name: 源码
       icon: #
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
