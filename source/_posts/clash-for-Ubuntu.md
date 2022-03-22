@@ -55,7 +55,7 @@ Ubuntu 20.04.2 for linux from Parallels Desktop
 
 8. 在terminal中输入以下内容启动
 
-   ```shell
+   ```sh
    ./clash -d .
    如果提示权限不够(permission deny)，则输入chmod +x clash
    再输入./clash -d .

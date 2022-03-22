@@ -25,7 +25,7 @@ description:
 
 #### Ubuntu
 
-```shell
+```sh
 sudo apt install zsh
 # 设置为默认
 chsh -s /bin/zsh
@@ -39,13 +39,13 @@ macOS 高版本已经将默认shell从bash更换到了zsh
 
 可以使用curl或者wget
 
-```shell
+```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
 或者
 
-```shell
+```sh
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 ```
 
@@ -53,7 +53,7 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 
 > 可以参照官网进行安装
 
-```shell
+```sh
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
@@ -63,7 +63,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 ### 安装Hack Nerd Font
 
-```shell
+```sh
 git clone https://github.com/ryanoasis/nerd-fonts.git --depth 1
 cd nerd-fonts
 ./install.sh
@@ -73,18 +73,18 @@ cd nerd-fonts
 
 ### 配置p10k
 
-```shell
+```sh
 p10k configure
 ```
 
 安装完p10k后会自动选择配置，可以按照上方命令再次设置，建议安装完自体后进行设置，否则或出现乱码
 
 ### 设置高亮
-```shell
+```sh
 brew install zsh-syntax-highlighting
 ```
 然后在.zshrc 中追加以下内容
-```shell
+```sh
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
 
