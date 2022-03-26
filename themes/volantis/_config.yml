@@ -43,7 +43,7 @@ scroll_smooth: true
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://gitee.com/merlinalex/pic-go/raw/master/20211023160629.png
+    img: https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/20211023160629.png
     icon:
     title:
   menu:
@@ -80,7 +80,7 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://gitee.com/merlinalex/pic-go/raw/master/IMG_0642.JPG
+  background: https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/IMG_0642.JPG
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: 'MerlinCode'
@@ -398,7 +398,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: https://gitee.com/merlinalex/pic-go/raw/master/B99391D8-CF54-47C9-8DBB-D257A642E47E_1_105_c.jpeg
+      avatar: https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/B99391D8-CF54-47C9-8DBB-D257A642E47E_1_105_c.jpeg
       shape: rectangle # circle, rectangle
       url: /about/
       title:
@@ -416,9 +416,9 @@ sidebar:
         - icon: fab fa-zhihu
           url: https://www.zhihu.com/people/zang-hai-77-32
         - icon: fab fa-weixin
-          url: https://gitee.com/merlinalex/pic-go/raw/master/wechat.png
+          url: https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/wechat.png
         - icon: fab fa-qq
-          url: https://gitee.com/merlinalex/pic-go/raw/master/qq.jpeg
+          url: https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/qq.jpeg
     # ---------------------------------------
     # toc widget (valid only in articles)
     toc:

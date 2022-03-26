@@ -2,7 +2,7 @@
   description:  牛逼哄哄的能量瓶小伙(bushi) # 分组描述
   items:
     - title: DiyGod # 名称
-      avatar: https://gitee.com/merlinalex/pic-go/raw/master/DIYgod-avatar2.webp # 头像
+      avatar: https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/DIYgod-avatar2.webp # 头像
       url: https://diygod.me/ # 链接
       screenshot: # 截图
       keywords: # 关键词

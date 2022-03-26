@@ -59,7 +59,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 编辑`~/.zshrc`设置`ZSH_THEME="powerlevel10k/powerlevel10k"`
 
-![image-20211003102644579](https://gitee.com/merlinalex/pic-go/raw/master/image-20211003102644579.png)
+![image-20211003102644579](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/image-20211003102644579.png)
 
 ### 安装Hack Nerd Font
 
@@ -92,4 +92,4 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 > 参考下方图片
 
-![image-20211003104137867](https://gitee.com/merlinalex/pic-go/raw/master/image-20211003104137867.png)
+![image-20211003104137867](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/image-20211003104137867.png)

@@ -80,7 +80,7 @@ pagination_dir: page
 theme: volantis
 
 # 网站图标，更多尺寸等图标请使用import方式批量导入
-favicon: https://gitee.com/merlinalex/pic-go/raw/master/bitbug_favicon.ico
+favicon: https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/bitbug_favicon.ico
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

@@ -28,7 +28,7 @@ top_meta: false
 
 # How
 QQ: 1347999507
-WeChat: [MerlinAlex](https://gitee.com/merlinalex/pic-go/raw/master/wechat.png)
+WeChat: [MerlinAlex](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/wechat.png)
 知乎：[MerlinAlex](https://www.zhihu.com/people/zang-hai-77-32)
 GitHub: [MerlinAlex](https://github.com/huangjingping520)
 Bilibili: [MerlinAlex](https://space.bilibili.com/97704929)
