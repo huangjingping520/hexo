@@ -4,6 +4,7 @@ title: JavaScript之继承
 author: MerlinAlex
 categories:
   - JavaScript
+  - 学习笔记
 cover: false
 music:
   server: netease
@@ -12,7 +13,6 @@ music:
 date: 2022-03-26 13:37:59
 tags:
   - JavaScript
-  - 学习笔记
 description:
 ---
 

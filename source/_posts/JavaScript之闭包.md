@@ -4,6 +4,7 @@ title: JavaScript之闭包
 author: MerlinAlex
 categories:
   - JavaScript
+  - 学习笔记
 cover: false
 music:
   server: netease
@@ -12,7 +13,6 @@ music:
 date: 2022-03-26 14:11:32
 tags:
   - JavaScript
-  - 学习笔记
 description:
 ---
 
