@@ -39,7 +39,7 @@ Ubuntu 20.04.2 for linux from Parallels Desktop
 
 3. 打开firefox浏览器
 
-4. 输入https://github.com/Dreamacro/clash/releases并访问
+4. 输入https://github.com/Dreamacro/clash/releases 并访问
 
 5. 找到最新的版本并根据自己的系统选择相应文件下载
 
