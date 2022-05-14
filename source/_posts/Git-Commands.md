@@ -20,17 +20,13 @@ Git 命令速查
 
 <!-- more -->
 
-`git branch`
-
-显示分支列表，当前分支前有 `*`
+`git branch`: 显示分支列表，当前分支前有 `*`
 
 ```sh
 * master
 ```
 
-`git branch [branch-name]`
-
-创建新分支
+`git branch [branch-name]`: 创建新分支
 
 ```sh
 > git branch second
@@ -40,11 +36,14 @@ Git 命令速查
   second
 ```
 
-`git checkout [branch-name]`
-
-切换分支
+`git checkout [branch-name]`: 切换分支
 
 ```sh
 > git checkout second
 Switched to branch 'second'
 ```
+
+`git checkout -b [branch-name]`: 创建并切换分支
+
+`git merge [branch-name]`: 合并分支
+
