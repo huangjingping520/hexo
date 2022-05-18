@@ -21,6 +21,8 @@ a vue and vite demo
 
 <!-- more -->
 
+[代码地址](https://github.com/huangjingping520/vue3withVite)
+
 # 搭建项目
 
 ```sh
